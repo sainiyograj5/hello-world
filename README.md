@@ -1,6 +1,1 @@
-hii..
- this is yograj .
- from data science batch with gen AI
- Quality Thought institute.
- in ameerpet Hyderabad.
- thank you.
+"Good morning, my name is Yogra Saini. I am from Visakhapatnam, Andhra Pradesh. I have recently been working on skills, SQL Placement Management System, Python,  machine Learning, Working on EDA. My key strengths are problem-solving, teamwork, adaptability. I am passionate about software development, data analysis, machine learning and I am looking forward to applying my knowledge in real-world projects. Apart from academics, I enjoy traveling, playing cricket,playing video games. Thank You
